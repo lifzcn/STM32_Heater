@@ -1,0 +1,46 @@
+robot\main.o: ../Core/Src/main.c
+robot\main.o: ../Core/Inc/main.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+robot\main.o: ../Core/Inc/stm32f1xx_hal_conf.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+robot\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+robot\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
+robot\main.o: ../Drivers/CMSIS/Include/core_cm3.h
+robot\main.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+robot\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+robot\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+robot\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+robot\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+robot\main.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+robot\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+robot\main.o: ../Core/Inc/adc.h
+robot\main.o: ../Core/Inc/i2c.h
+robot\main.o: ../Core/Inc/tim.h
+robot\main.o: ../Core/Inc/usart.h
+robot\main.o: ../Core/Inc/gpio.h
+robot\main.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+robot\main.o: ../Core/Inc/oled.h
+robot\main.o: ../Core/Inc/ds18b20.h
+robot\main.o: ../Core/Inc/warning.h
+robot\main.o: ../Core/Inc/display.h
+robot\main.o: ../Core/Inc/waterlevel.h
+robot\main.o: ../Core/Inc/templevel.h
+robot\main.o: ../Core/Inc/gp2y0a21.h

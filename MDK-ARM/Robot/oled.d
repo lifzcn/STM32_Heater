@@ -1,0 +1,36 @@
+robot\oled.o: ..\Core\Src\oled.c
+robot\oled.o: ../Core/Inc/oled.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+robot\oled.o: ../Core/Inc/stm32f1xx_hal_conf.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+robot\oled.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+robot\oled.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
+robot\oled.o: ../Drivers/CMSIS/Include/core_cm3.h
+robot\oled.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+robot\oled.o: ../Drivers/CMSIS/Include/cmsis_version.h
+robot\oled.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+robot\oled.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+robot\oled.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+robot\oled.o: C:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+robot\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+robot\oled.o: ../Core/Inc/i2c.h
+robot\oled.o: ../Core/Inc/main.h
+robot\oled.o: ../Core/Inc/oledfont.h
